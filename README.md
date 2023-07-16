@@ -8,3 +8,6 @@
 ##### torchaudio==2.0.2+cu117
 ##### tqdm==4.65.0
 ##### wcwidth==0.2.6
+
+## Data
+##### https://webpages.charlotte.edu/cchen62/dataset.html   将数据集的train 和 test 放到archive文件夹下就可以了，还是原名
